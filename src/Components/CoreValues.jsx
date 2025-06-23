@@ -14,13 +14,17 @@ const CoreValues = () => {
             <div
               data-aos="fade-up"
               key={obj.id}
-              className="w-full h-full p-5 border dark:border-primary rounded-xl"
+              className={`w-full  h-full p-5 border dark:border-primary rounded-xl`}
             >
               <div className="flex justify-between w-full items-center">
                 <h1 className="text-2xl font-medium dark:text-primary">
                   {obj.title}
                 </h1>
-                <img src={obj.icon} alt="" />
+                <img
+                  src={obj.icon}
+                  alt="icons"
+                  className={`${obj.id === 1 ? `brightness-50` : ``}`}
+                />
               </div>
               <p className="desc max-w-[25rem]">{obj.description}</p>
             </div>

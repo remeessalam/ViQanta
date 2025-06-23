@@ -37,13 +37,13 @@ const AboutUsPage = () => {
                   About Us
                 </h1>
                 <p data-aos="fade-right" className="desc mt-10">
-                  Welcome to aicompany, where cosmic innovation converges with
-                  quantum-level intelligence. In a reality where technology
-                  evolves at light speed, we stand at the intersection of cosmic
-                  insight and cutting-edge innovation. By merging quantum-level
-                  thinking with AI-driven solutions, we transform visionary
-                  ideas into immersive digital experiences that transcend
-                  borders, dimensions, and industries.
+                  Welcome to ViQantAI, your strategic technology partner. We
+                  deliver innovative, scalable solutions in blockchain, AI, app
+                  development, and cloud computing, empowering businesses to
+                  thrive in the digital era. Our team combines deep technical
+                  expertise with creative problem-solving to transform your
+                  vision into reality across industries like fintech, gaming,
+                  and healthcare.
                 </p>
               </div>
               <img data-aos="fade-left" src={aboutusimg} alt="aboutus-img" />

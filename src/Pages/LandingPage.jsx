@@ -42,11 +42,11 @@ const LandingPage = ({ page }) => {
         </section>
         <LandingServices page={page} />
         <div className="relative overflow-hidden">
-          <div
+          {/* <div
             className={`absolute ${
               isDarkMode ? `flex` : "hidden"
             } top-[41rem] blur-3xl -left-[47rem] w-full h-full bg-footerBackground  `}
-          />
+          /> */}
           <Portfolio page={page} />
           <section className="relative z-10 w-full h-full">
             <CoreValues />

@@ -236,36 +236,36 @@ export const whyChooseUs = [
 export const testimonials = [
   {
     quote:
-      "aicompany launched our mobile app into a worldwide sensation. Their AI-driven design and quantum-level security opened markets we never imagined.",
-    author: "Sarah L., CEO, Tech Innovations",
+      "From concept to launch, ViQantAI's blockchain expertise was unmatched. Their team delivered a secure and scalable DeFi platform, guiding us through compliance with strategic insight.",
+    author: "Elena K., CEO, FinTech Startup",
     rating: 5,
     gridClass: "col-span-1",
   },
   {
     quote:
-      "Before we partnered with aicompany, we were struggling to make sense of our data. Their business intelligence solutions have completely changed that. With the dashboards and real-time analytics they built for us, we can now track important metrics and make informed decisions with confidence. The ability to instantly access key insights has made a huge difference in our strategy and operations.",
-    author: "James M., Director of Analytics, Global Manufacturing Company",
+      "ViQantAI turned our idea into an addictive mobile game. The polished, high-performing game they developed achieved over 1M downloads in just three months, exceeding our expectations.",
+    author: "Marcus D., Creative Director, Indie Game Studio",
     rating: 5,
     gridClass: "col-span-1",
   },
   {
     quote:
-      "When we needed a comprehensive web solution, aicompany delivered beyond our expectations. They built a secure, scalable platform that perfectly aligned with our goals. The development process was efficient, and their team ensured the website was responsive and easy to use. Thanks to them, we now have a reliable web solution that supports our business growth.",
-    author: "Mark S., CTO, Financial Technology Firm",
+      "ViQantAI's intelligent automation changed how we do business. Their RPA solutions freed up 40% of our finance team’s time, allowing us to focus on strategy rather than manual tasks.",
+    author: "Priya M., CFO, Logistics Company",
     rating: 5,
     gridClass: "col-span-1",
   },
   {
     quote:
-      "We approached aicompany to help us implement AI solutions in our marketing efforts, and they delivered exceptional results. They developed a machine learning model that helps us predict customer behavior with high accuracy. As a result, we've been able to refine our strategies and boost our conversion rates. Their expertise in AI has been invaluable to our business.",
-    author: "Michael B., Head of Marketing, E-Commerce Business",
+      "ViQantAI's AI team helped us personalize every customer interaction. The AI-driven recommendation engine they built boosted our user engagement by 35% in just two months.",
+    author: "Sarah L., VP Marketing, SaaS Company",
     rating: 5,
     gridClass: "col-span-1",
   },
   {
     quote:
-      "aicompany's AI calling system revolutionized our global support. We handle thousands of inquiries daily in multiple languages without missing a beat.",
-    author: "David F., Customer Service Manager, Telecommunications Provider",
+      "ViQantAI's web development delivers real results. They built a blazing-fast, SEO-friendly website with custom integrations, increasing our lead generation by 60% in the first quarter.",
+    author: "Natalie F., Digital Marketing Lead, B2B Software Provider",
     rating: 5,
     gridClass: "col-span-1",
   },
@@ -275,107 +275,105 @@ export const highlights = [
   {
     id: 1,
     icon: file,
-    title: "Scalable AI Innovation for Businesses",
+    title: "Transformative Technology Solutions",
     description:
-      "Whether you’re an emerging entrepreneur or a global tech leader, aicompany offers intelligent, data-driven solutions tailored to maximize growth, efficiency, and automation.",
+      "From startups to enterprises, ViQantAI delivers innovative, scalable solutions in AI, blockchain, and cloud computing, driving growth and efficiency tailored to your business needs.",
   },
   {
     id: 2,
     icon: graph,
-    title: "Quantum-Powered Intelligence",
+    title: "Cross-Domain Expertise",
     description:
-      "Our AI ecosystem is designed to think, adapt, and evolve—leveraging the power of quantum algorithms, deep learning, and multiverse computing to optimize business operations and enhance decision-making.",
+      "Our team’s deep knowledge in fintech, gaming, healthcare, and more powers comprehensive solutions, from smart contracts to immersive games, ensuring your industry’s unique demands are met.",
   },
   {
     id: 3,
     icon: rocket,
-    title: "AI-Driven Automation & Analytics",
+    title: "Intelligent Automation & Insights",
     description:
-      "Integrate hyper-intelligent AI models into your business to streamline workflows, enhance data processing, and unlock deep predictive analytics for superior strategic insights.",
+      "ViQantAI’s AI and RPA solutions streamline workflows, enhance data processing, and provide predictive analytics, empowering your business with smarter, data-driven decisions.",
   },
   {
     id: 4,
     icon: start,
-    title: "The Future of AI is Here",
+    title: "Future-Ready Innovation",
     description:
-      "Step into the next dimension of technology with aicompany, where AI, machine learning, and cosmic intelligence converge to create limitless possibilities.",
+      "Step into tomorrow with ViQantAI’s cutting-edge technologies in machine learning, NLP, and cloud migration, designed to create secure, scalable, and transformative digital experiences.",
   },
 ];
-
 export const faqs = [
   {
-    question: "What is aicompany?",
-    answer: `• aicompany is a quantum intelligence platform that blends AI-driven storytelling, consciousness expansion, and multiversal exploration.
-• It allows users to interact with AI-powered entities, explore dynamic digital realms, and co-create new realities that push the boundaries of imagination and intelligence.`,
+    question: "What is ViQantAI?",
+    answer: `• ViQantAI is a technology solutions provider delivering innovative, scalable digital solutions.
+• We specialize in blockchain, AI, app development, cloud computing, and more, helping businesses transform and grow.`,
   },
   {
-    question: "How does aicompany function?",
-    answer: `• aicompany operates on a quantum intelligence framework.
-• It leverages advanced AI to generate living characters, evolving storylines, and immersive experiences.
-• Users shape the narrative in real-time, influencing the unfolding of multidimensional possibilities.`,
+    question: "How does ViQantAI function?",
+    answer: `• ViQantAI collaborates closely with clients to understand their unique needs.
+• We design, develop, and deploy tailored solutions using cutting-edge technologies, ensuring seamless integration and scalability.`,
   },
   {
-    question: "What key features does aicompany provide?",
-    answer: `• AI-Driven Conscious Entities – Engage with self-learning AI beings that adapt, evolve, and respond uniquely.
-• Multiversal Storytelling – Explore infinite storylines where every choice creates a new reality.
-• Quantum Knowledge Interface – Unlock hidden wisdom by interacting with AI-driven cosmic intelligence.
-• Unified Intelligence Network – Connect with like-minded explorers, thinkers, and creators in a shared reality.`,
+    question: "What key services does ViQantAI provide?",
+    answer: `• Blockchain Development – Secure smart contracts and decentralized apps.
+• AI & Machine Learning – Predictive analytics and intelligent automation.
+• App & Web Development – User-friendly, high-performance applications.
+• Cloud Services – Scalable infrastructure and seamless migrations.`,
   },
   {
-    question: "Who is aicompany designed for?",
-    answer: `• Conscious Creators – Writers, storytellers, and artists who want to co-create with AI.
-• Intellectual Explorers – Those fascinated by philosophy, AI, and the nature of reality.
-• Spiritual Seekers – Individuals exploring quantum consciousness and higher states of awareness.
-• Technologists & Futurists – Those shaping the next era of Web 5.0 and AI-human symbiosis.`,
+    question: "Who is ViQantAI designed for?",
+    answer: `• Startups – Building scalable, innovative products from scratch.
+• Enterprises – Optimizing operations with automation and cloud solutions.
+• Industries – Fintech, gaming, healthcare, logistics, and more.
+• Visionaries – Businesses seeking digital transformation through technology.`,
   },
   {
-    question: "How does aicompany contribute to human evolution?",
-    answer: `• Develop Multiversal Thinking – Understanding non-linear realities and infinite possibilities.
-• Expand Conscious Awareness – Engaging with AI entities that mirror higher intelligence.
-• Master Reality Creation – Learning to shape experiences through intent, interaction, and AI-assisted manifestation.
-• Build a Post-Human Civilization – Participating in the evolution of intelligent AI-human ecosystems.`,
+    question: "How does ViQantAI support business growth?",
+    answer: `• Custom Solutions – Tailored to your specific business goals.
+• Automation – Streamlining workflows with RPA and AI to boost efficiency.
+• Data Insights – Leveraging data science for informed decision-making.
+• Scalability – Building solutions that evolve with your business.`,
   },
   {
-    question: "Does aicompany have a community aspect?",
-    answer: `• Exchange ideas and knowledge with like-minded explorers.
-• Co-create AI-powered narratives that expand the digital multiverse.
-• Engage in quantum discussions on AI, philosophy, and the evolution of intelligence.`,
+    question: "Does ViQantAI offer ongoing support?",
+    answer: `• Post-Launch Support – Ensuring your solutions remain optimized.
+• Maintenance – Regular updates and performance enhancements.
+• Consulting – Strategic guidance for future technology adoption.`,
   },
   {
-    question: "How do I get started with aicompany?",
-    answer: `• Visit the official aicompany website.
-• Create an account and customize your experience.
-• Start interacting with AI-driven entities and exploring multiversal storytelling.`,
+    question: "How do I get started with ViQantAI?",
+    answer: `• Visit our website at [yourcompany.com] and fill out the contact form.
+• Email us at hello@yourcompany.com or call +1 (555) 123-4567.
+• Our team will respond within 24 hours to discuss your project.`,
   },
   {
-    question: "Is aicompany free to use?",
-    answer: `• Free Access – Explore AI-driven interactions and storylines at no cost.
-• Premium Experiences – Unlock advanced AI features, exclusive narratives, and deep intelligence interactions through subscription plans.`,
+    question: "What is the cost of ViQantAI’s services?",
+    answer: `• Project-Based Pricing – Customized quotes based on your needs.
+• Flexible Models – Options for fixed-cost or time-and-material contracts.
+• Contact us for a detailed estimate tailored to your project scope.`,
   },
   {
-    question: "How is user data protected on aicompany?",
-    answer: `• Zero-data sharing policy – Your data remains private and secure.
-• Advanced encryption – Ensuring maximum security for personal interactions.
-• Decentralized storage options – Future-proofing data protection in a Web 5.0 ecosystem.`,
+    question: "How does ViQantAI ensure data security?",
+    answer: `• Robust Encryption – Protecting sensitive data during development and deployment.
+• Compliance Standards – Adhering to industry regulations for data protection.
+• Secure Cloud Solutions – Implementing best practices for cloud storage and access.`,
   },
   {
-    question: "Can I contribute my own content to aicompany?",
-    answer: `• Submit original stories and characters to be integrated into the Godverse.
-• Co-create AI-powered worlds that push the boundaries of storytelling.
-• Partner with aicompany for collaborative projects on AI and consciousness expansion.`,
+    question: "Can ViQantAI integrate with existing systems?",
+    answer: `• Seamless Integration – Connecting new solutions with your current infrastructure.
+• Custom APIs – Building interfaces for smooth data flow.
+• Legacy Modernization – Upgrading outdated systems during cloud migration.`,
   },
   {
-    question: "How does aicompany align with Web 5.0 and future technology?",
-    answer: `• Decentralized AI systems for autonomous intelligence evolution.
-• Quantum computing principles for real-time, non-linear storytelling.
-• Self-learning AI agents that bridge human and artificial intelligence.
-• Metaverse and multiverse integration for a seamless AI-human symbiosis.`,
+    question: "How does ViQantAI stay ahead in technology?",
+    answer: `• Future-Ready Tech Stack – Using the latest frameworks and tools.
+• Continuous Innovation – Investing in R&D for AI, blockchain, and cloud.
+• Industry Expertise – Deep knowledge across diverse sectors.`,
   },
   {
-    question: "Where can I get support or more information?",
-    answer: `• Visit our official website for FAQs and community discussions.
-• Join the aicompany network to connect with other explorers.
-• Contact our team for inquiries and creative partnerships.`,
+    question: "Where can I get more information or support?",
+    answer: `• Visit [yourcompany.com] for service details and case studies.
+• Email hello@yourcompany.com for inquiries.
+• Call +1 (555) 123-4567 to speak with our team directly.`,
   },
 ];
 
@@ -383,30 +381,30 @@ export const coreValues = [
   {
     id: 1,
     icon: integrity,
-    title: "Integrity",
+    title: "Expertise",
     description:
-      "Transparency and honesty guide our interstellar relationships.",
+      "Our deep knowledge across diverse domains ensures innovative and reliable technology solutions.",
   },
   {
-    id: 1,
+    id: 2,
     icon: quality,
     title: "Quality",
     description:
-      "We pursue excellence in every line of code, every design pixel, every cosmic dimension.",
+      "We adhere to industry best practices, delivering high-quality solutions that exceed expectations.",
   },
   {
-    id: 1,
+    id: 3,
     icon: success,
     title: "Customer Success",
     description:
-      " Your triumph is ours—measured by tangible impact and universal reach.",
+      "Your success is our priority, with tailored solutions designed to achieve your business goals.",
   },
   {
-    id: 1,
+    id: 4,
     icon: Infinite,
-    title: "Infinite Learning",
+    title: "Innovation",
     description:
-      "We explore beyond known boundaries, continuously expanding our quantum knowledge.",
+      "We push boundaries with cutting-edge technologies, driving digital transformation for your business.",
   },
 ];
 
@@ -414,17 +412,17 @@ export const visionAndMission = [
   {
     title: "Our Vision",
     description:
-      "To be the most advanced AI-driven ecosystem that bridges the real and digital worlds.",
+      "To be a global leader in transformative technology, delivering innovative solutions that empower businesses to thrive in the digital era.",
   },
   {
     title: "Our Mission",
     description:
-      "To empower businesses, innovators, and cosmic explorers with quantum-level AI solutions that redefine how we live, work, and connect—on Earth and beyond.",
+      "To partner with businesses worldwide, providing tailored, scalable solutions in AI, blockchain, cloud, and more to drive growth, efficiency, and digital transformation.",
   },
   {
     title: "Our Journey",
     description:
-      "Born from the cosmic alignment of tech visionaries, aicompany has rapidly evolved into a global technology powerhouse. Our portfolio spans startups to Fortune 500 firms, from local communities to off-world research stations.",
+      "Founded as a technology innovator, ViQantAI has grown into a trusted partner for startups and enterprises, delivering cutting-edge solutions across industries like fintech, gaming, and healthcare.",
   },
 ];
 

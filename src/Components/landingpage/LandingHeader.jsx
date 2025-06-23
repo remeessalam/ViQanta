@@ -22,7 +22,7 @@ const LandingHeader = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between py-5">
           <div className="flex-shrink-0">
-            <div className=" w-auto text-white">
+            <div className=" w-auto text-white bg-black p-3 rounded-lg dark:bg-transparent">
               <img src={logo} alt="logo" className="w-[6.4rem]" />
             </div>
           </div>
@@ -30,7 +30,7 @@ const LandingHeader = () => {
           <div className="hidden md:flex items-center space-x-8">
             <Link
               to="/"
-              className="text-white hover:text-blue-300 dark:hover:text-primary"
+              className="text-black dark:text-white hover:text-gray-950 dark:hover:text-primary"
             >
               Home
             </Link>
@@ -42,7 +42,7 @@ const LandingHeader = () => {
               offset={-140}
               duration={1000}
               activeClass="active-link text-blue-300 dark:text-primary"
-              className="text-white hover:text-blue-300 dark:hover:text-primary"
+              className="text-black dark:text-white hover:text-gray-950 dark:hover:text-primary"
             >
               About Us
             </Scrolllink>
@@ -54,14 +54,14 @@ const LandingHeader = () => {
               offset={-140}
               duration={1000}
               activeClass="active-link text-blue-300 dark:text-primary"
-              className="text-white hover:text-blue-300 dark:hover:text-primary"
+              className="text-black dark:text-white hover:text-gray-950 dark:hover:text-primary"
             >
               Services
             </Scrolllink>
 
             <Link
               to="/blog"
-              className="text-white hover:text-blue-300 dark:hover:text-primary"
+              className="text-black dark:text-white hover:text-gray-950 dark:hover:text-primary"
             >
               Blog
             </Link>
@@ -73,7 +73,7 @@ const LandingHeader = () => {
               offset={-140}
               duration={1000}
               activeClass="active-link "
-              className="primary-btn"
+              className="primary-btn dark:text-black  !bg-black dark:!bg-white"
             >
               Contact Us
             </Scrolllink>

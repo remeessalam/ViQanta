@@ -28,7 +28,7 @@ const Portfolio = ({ page }) => {
       "(min-width: 768px) and (max-width: 1023px)": {
         slides: { perView: 3, spacing: 30 },
       },
-      "(min-width: 1024px)": { slides: { perView: 3, spacing: 30 } },
+      "(min-width: 1024px)": { slides: { perView: 5, spacing: 30 } },
     },
     created(s) {
       s.moveToIdx(5, true, animation);
@@ -56,9 +56,9 @@ const Portfolio = ({ page }) => {
         slides: { perView: 2, spacing: 30 },
       },
       "(min-width: 768px) and (max-width: 1023px)": {
-        slides: { perView: 2, spacing: 30 },
+        slides: { perView: 3, spacing: 30 },
       },
-      "(min-width: 1024px)": { slides: { perView: 3, spacing: 30 } },
+      "(min-width: 1024px)": { slides: { perView: 5, spacing: 30 } },
     },
     created(s) {
       s.moveToIdx(5, true, animation);

@@ -19,16 +19,18 @@ const LandingFooter = () => {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3  xl:grid-cols-4 gap-8 items-start">
             <div className="col-span-1">
-              <div className="flex items-center gap-2 mb-4">
+              <div className="flex items-center gap-2 mb-4 bg-black w-fit p-3 rounded-lg">
                 <img src={logo} alt="logo" className="w-[6.4rem]" />
               </div>
-              <p className="text-white text-sm max-w-xs">
+              <p className="text-black dark:text-white text-sm max-w-xs">
                 Unleash the Next Wave of Business Evolution with aicompany
               </p>
             </div>
 
             <div className="col-span-1">
-              <h3 className="text-white font-medium mb-4">Quick Links</h3>
+              <h3 className="text-black dark:text-white font-medium mb-4">
+                Quick Links
+              </h3>
               <ul className="space-y-2">
                 <li>
                   <Scrolllink
@@ -38,7 +40,7 @@ const LandingFooter = () => {
                     smooth={true}
                     offset={-140}
                     duration={1000}
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                     activeClass="active-link text-blue-300 dark:text-primary"
                   >
                     About Us
@@ -52,7 +54,7 @@ const LandingFooter = () => {
                     smooth={true}
                     offset={-140}
                     duration={1000}
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Services
                   </Scrolllink>
@@ -61,12 +63,14 @@ const LandingFooter = () => {
             </div>
 
             <div className="col-span-1">
-              <h3 className="text-white font-medium mb-4">Information</h3>
+              <h3 className="text-black dark:text-white font-medium mb-4">
+                Information
+              </h3>
               <ul className="space-y-2">
                 <li>
                   <Link
                     to="/blog"
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Blog
                   </Link>
@@ -79,7 +83,7 @@ const LandingFooter = () => {
                     smooth={true}
                     offset={-140}
                     duration={1000}
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Contact US
                   </Scrolllink>
@@ -105,7 +109,7 @@ const LandingFooter = () => {
                     to={obj.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-white  text-2xl transition-colors"
+                    className="text-black dark:text-white  text-2xl transition-colors"
                   >
                     <obj.icon className="hover:text-darkblack dark:hover:text-primary cursor-ponter" />
                   </Link>
@@ -115,7 +119,7 @@ const LandingFooter = () => {
           </div>
 
           <div className="mt-12 text-center">
-            <p className="text-white text-sm">
+            <p className="text-black dark:text-white text-sm">
               ©2025 aicompany. All rights reserved.
             </p>
           </div>

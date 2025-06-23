@@ -18,21 +18,23 @@ const Footer = () => {
         <div className="wrapper">
           <div className="grid grid-cols-1 md:grid-cols-3  xl:grid-cols-4 gap-8 items-start">
             <div className="col-span-1">
-              <div className="flex items-center gap-2 mb-4">
+              <div className="flex items-center gap-2 mb-4 bg-black w-fit p-3 rounded-lg dark:bg-transparent">
                 <img src={logo} alt="logo" className="w-[6.4rem]" />
               </div>
-              <p className="text-white text-sm max-w-xs">
+              <p className="text-black dark:text-white text-sm max-w-xs">
                 Unleash the Next Wave of Business Evolution with aicompany
               </p>
             </div>
 
             <div className="col-span-1">
-              <h3 className="text-white font-medium mb-4">Quick Links</h3>
+              <h3 className="text-black dark:text-white font-medium mb-4">
+                Quick Links
+              </h3>
               <ul className="space-y-2">
                 <li>
                   <Link
                     to="/about-us"
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     About Us
                   </Link>
@@ -40,7 +42,7 @@ const Footer = () => {
                 <li>
                   <Link
                     to="/services"
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Services
                   </Link>
@@ -49,12 +51,14 @@ const Footer = () => {
             </div>
 
             <div className="col-span-1">
-              <h3 className="text-white font-medium mb-4">Information</h3>
+              <h3 className="text-black dark:text-white font-medium mb-4">
+                Information
+              </h3>
               <ul className="space-y-2">
                 <li>
                   <Link
                     to="/blog"
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Blog
                   </Link>
@@ -62,7 +66,7 @@ const Footer = () => {
                 <li>
                   <Link
                     to="/contact-us"
-                    className="text-white hover:text-gray-300 text-sm"
+                    className="text-black dark:text-white hover:text-gray-300 text-sm"
                   >
                     Contact US
                   </Link>
@@ -88,7 +92,7 @@ const Footer = () => {
                     to={obj.href}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-white  text-2xl transition-colors"
+                    className="text-black dark:text-white  text-2xl transition-colors"
                   >
                     <obj.icon className="hover:text-darkblack dark:hover:text-primary cursor-ponter" />
                   </Link>
@@ -98,7 +102,7 @@ const Footer = () => {
           </div>
 
           <div className="mt-12 text-center">
-            <p className="text-white text-sm">
+            <p className="text-black dark:text-white text-sm">
               ©2025 aicompany. All rights reserved.
             </p>
           </div>
