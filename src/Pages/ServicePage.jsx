@@ -27,13 +27,13 @@ const ServicePage = () => {
               className=" text-[56px] text-center leading-tight font-bold dark:text-white text-white"
             >
               Simplify your Business
-              <br /> Growth with aicompany
+              <br /> Growth with ViQantAI
             </h1>
             <p
               className="desc text-center max-w-[50rem] !text-white"
               data-aos="fade-up"
             >
-              With aicompany's quantum-level innovation and AI-driven solutions,
+              With ViQantAI's quantum-level innovation and AI-driven solutions,
               designed to captivate audiences across galaxies. Partner with us
               to manifest futuristic solutions that transcend borders and
               industries.

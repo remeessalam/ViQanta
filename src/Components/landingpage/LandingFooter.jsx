@@ -23,7 +23,7 @@ const LandingFooter = () => {
                 <img src={logo} alt="logo" className="w-[6.4rem]" />
               </div>
               <p className="text-black dark:text-white text-sm max-w-xs">
-                Unleash the Next Wave of Business Evolution with aicompany
+                Unleash the Next Wave of Business Evolution with ViQantAI
               </p>
             </div>
 
@@ -120,7 +120,7 @@ const LandingFooter = () => {
 
           <div className="mt-12 text-center">
             <p className="text-black dark:text-white text-sm">
-              ©2025 aicompany. All rights reserved.
+              ©2025 ViQantAI. All rights reserved.
             </p>
           </div>
         </div>

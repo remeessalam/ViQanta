@@ -74,8 +74,8 @@ import { TbDeviceMobileCode } from "react-icons/tb";
 import { FaXTwitter } from "react-icons/fa6";
 
 export const companyDetails = {
-  name: "aicompany",
-  email: "aicompany@gmail.com",
+  name: "ViQantAI",
+  email: "ViQantAI@gmail.com",
   phone: "+91-0000000000",
   address: "company address",
   socialLinks: [

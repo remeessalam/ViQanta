@@ -55,7 +55,7 @@ export const serviceDetails = [
     imageone: appdevimg1,
     imgagetwo: appdevimg2,
     title: "Mobile App Development",
-    heading: "At aicompany, Crafting User-Centric Solutions",
+    heading: "At ViQantAI, Crafting User-Centric Solutions",
     description:
       "With the world going mobile, we specialize in creating responsive, high-performance apps that meet both your business objectives and user needs. From Android to iOS, we develop seamless, secure, and highly functional applications. Our goal is to go beyond just building apps—we aim to deliver digital experiences that engage and delight users, no matter the platform. From simple utilities to complex enterprise solutions, we ensure your app stands out in a crowded marketplace",
     secondHeading:
@@ -80,12 +80,12 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI Innovation",
     thirdDescription:
-      "At aicompany, we are at the forefront of integrating artificial intelligence into mobile app development, transforming the way users interact with technology. By harnessing AI, we create intuitive, personalized, and efficient mobile experiences that adapt to individual user needs. Our commitment to AI innovation ensures that your mobile applications are not only responsive but also intelligent, capable of learning and evolving to meet the dynamic demands of your audience. Partner with us to redefine the future of mobile development, delivering cutting-edge solutions that set your business apart in a competitive landscape.",
+      "At ViQantAI, we are at the forefront of integrating artificial intelligence into mobile app development, transforming the way users interact with technology. By harnessing AI, we create intuitive, personalized, and efficient mobile experiences that adapt to individual user needs. Our commitment to AI innovation ensures that your mobile applications are not only responsive but also intelligent, capable of learning and evolving to meet the dynamic demands of your audience. Partner with us to redefine the future of mobile development, delivering cutting-edge solutions that set your business apart in a competitive landscape.",
     whyMatter:
       "Why It Matters Globally (and Beyond): Mobile devices are ubiquitous—by leveraging our cosmic-edge techniques, your app resonates with diverse audiences across all timelines and geographies",
     fourthHeading: "Accelerating Innovation Through Mobile Services",
     fourthDescripiton:
-      "At aicompany, we accelerate innovation through our comprehensive mobile services by integrating advanced technologies such as artificial intelligence and machine learning. This approach enables us to create intuitive, personalized, and efficient mobile experiences that adapt to individual user needs, setting your business apart in a competitive landscape.",
+      "At ViQantAI, we accelerate innovation through our comprehensive mobile services by integrating advanced technologies such as artificial intelligence and machine learning. This approach enables us to create intuitive, personalized, and efficient mobile experiences that adapt to individual user needs, setting your business apart in a competitive landscape.",
   },
   {
     id: 2,
@@ -94,7 +94,7 @@ export const serviceDetails = [
     imageone: UX_UI_Sub1,
     imgagetwo: UX_UI_Sub2,
     title: "UX/UI Design",
-    heading: "At aicompany, Designing for Seamless Interactions",
+    heading: "At ViQantAI, Designing for Seamless Interactions",
     description:
       "Great design is more than just eye candy—it’s about creating intuitive, engaging user experiences. Our UX/UI designers specialize in building interfaces that are as easy to use as they are beautiful. By studying user behavior and optimizing workflows, we craft interfaces that deliver exceptional usability and aesthetic appeal. From initial sketches to fully interactive prototypes, we ensure your digital product feels just right for every user.",
     secondHeading: "How our company will Help you in the Era of UI/UX Design",
@@ -118,12 +118,12 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI Innovation",
     thirdDescription:
-      "Artificial Intelligence (AI) is revolutionizing UI/UX design by introducing dynamic, adaptive interfaces that respond to user behavior in real-time. This innovation enables hyper-personalization, allowing interfaces to adjust content and layout based on individual preferences, leading to more engaging user experiences.Additionally, AI enhances accessibility by tailoring interfaces to accommodate diverse user needs, ensuring inclusivity. At aicompany, we harness these advancements to craft intuitive, intelligent designs that not only meet current user expectations but also anticipate future trends, setting new standards in digital interaction.",
+      "Artificial Intelligence (AI) is revolutionizing UI/UX design by introducing dynamic, adaptive interfaces that respond to user behavior in real-time. This innovation enables hyper-personalization, allowing interfaces to adjust content and layout based on individual preferences, leading to more engaging user experiences.Additionally, AI enhances accessibility by tailoring interfaces to accommodate diverse user needs, ensuring inclusivity. At ViQantAI, we harness these advancements to craft intuitive, intelligent designs that not only meet current user expectations but also anticipate future trends, setting new standards in digital interaction.",
     whyMatter:
       "Why It Matters for All Beings: A design language that speaks to human and AI alike fosters universal appeal, cutting across language and cultural barriers—perfect for a multi-planetary audience.",
     fourthHeading: "Accelerating Innovation Through UI/UX Design",
     fourthDescripiton:
-      "At aicompany, we believe that exceptional UI/UX design is the catalyst for innovation, transforming ideas into intuitive digital experiences. By deeply understanding user behaviors and needs, we craft interfaces that not only meet expectations but also inspire and engage. Our design philosophy centers on creating seamless interactions, ensuring that every touchpoint is both functional and delightful. Through continuous iteration and user feedback, we refine our designs to adapt to evolving user preferences and technological advancements. Partner with aicompany to accelerate your innovation journey, leveraging cutting-edge UI/UX design to drive meaningful user engagement and business growth.",
+      "At ViQantAI, we believe that exceptional UI/UX design is the catalyst for innovation, transforming ideas into intuitive digital experiences. By deeply understanding user behaviors and needs, we craft interfaces that not only meet expectations but also inspire and engage. Our design philosophy centers on creating seamless interactions, ensuring that every touchpoint is both functional and delightful. Through continuous iteration and user feedback, we refine our designs to adapt to evolving user preferences and technological advancements. Partner with ViQantAI to accelerate your innovation journey, leveraging cutting-edge UI/UX design to drive meaningful user engagement and business growth.",
   },
   {
     id: 3,
@@ -132,7 +132,7 @@ export const serviceDetails = [
     imageone: AR_VR_sub1,
     imgagetwo: AR_VR_sub2,
     title: "AR & VR Development",
-    heading: "At aicompany, Immersive Digital Realities",
+    heading: "At ViQantAI, Immersive Digital Realities",
     description:
       "Great design is more than just eye candy—it’s about creating intuitive, engaging user experiences. Our UX/UI designers specialize in building interfaces that are as easy to use as they are beautiful. By studying user behavior and optimizing workflows, we craft interfaces that deliver exceptional usability and aesthetic appeal. From initial sketches to fully interactive prototypes, we ensure your digital product feels just right for every user.",
     secondHeading:
@@ -170,7 +170,7 @@ export const serviceDetails = [
     imageone: Full_Stack_sub1,
     imgagetwo: Full_Stack_sub2,
     title: " Full Stack Web Development",
-    heading: "At aicompany, Building Powerful Digital Solutions",
+    heading: "At ViQantAI, Building Powerful Digital Solutions",
     description:
       "Great design is more than just eye candy—it’s about creating intuitive, engaging user experiences. Our UX/UI designers specialize in building interfaces that are as easy to use as they are beautiful. By studying user behavior and optimizing workflows, we craft interfaces that deliver exceptional usability and aesthetic appeal. From initial sketches to fully interactive prototypes, we ensure your digital product feels just right for every user.",
     secondHeading:
@@ -197,7 +197,7 @@ export const serviceDetails = [
     thirdDescription:
       "Artificial Intelligence (AI) is revolutionizing full stack web development by automating repetitive tasks, predicting user needs, and suggesting code improvements.This integration enhances developer productivity and efficiency, allowing teams to focus on complex problem-solving and strategic planningAI-powered tools streamline workflows, optimize design elements, and improve user experiences with minimal human intervention.By embracing AI innovations, developers can create more intelligent, responsive, and efficient web applications, setting new standards in the digital landscape.",
     whyMatter:
-      "Why It Matters for Galactic Markets: A high-performing web presence is your digital storefront across galaxies—aicompany ensures it stands out in any dimension.",
+      "Why It Matters for Galactic Markets: A high-performing web presence is your digital storefront across galaxies—ViQantAI ensures it stands out in any dimension.",
     fourthHeading: "Accelerating Innovation Through Full Stack Web Development",
     fourthDescripiton: `Full stack web development plays a pivotal role in accelerating innovation by integrating both front-end and back-end technologies to create cohesive and dynamic web applications. This comprehensive approach enables developers to seamlessly manage the entire development process, from user interface design to server-side logic and database management. By employing modern development stacks such as MEAN (MongoDB, Express.js, Angular, Node.js) and MERN (MongoDB, Express.js, React, Node.js), teams can streamline workflows, enhance collaboration, and rapidly deploy scalable solutions. This holistic methodology not only fosters creativity but also ensures adaptability in the ever-evolving digital landscape, driving continuous improvement and delivering exceptional user experiences.`,
   },
@@ -208,7 +208,7 @@ export const serviceDetails = [
     imageone: AICallingAgencysub1,
     imgagetwo: AICallingAgencysub2,
     title: " AI Calling Agency",
-    heading: "At aicompany, Revolutionizing Business Communication",
+    heading: "At ViQantAI, Revolutionizing Business Communication",
     description:
       "AI-driven communication is revolutionizing how businesses engage with customers. Our AI calling solutions create intelligent virtual agents capable of handling customer inquiries, providing real-time assistance, and improving operational efficiency. By integrating voice technology, we enable your business to offer 24/7 support, reduce customer service costs, and enhance the overall customer experience, all through the power of AI.",
     secondHeading:
@@ -247,7 +247,7 @@ export const serviceDetails = [
     imageone: Chatbot_DevelopmentSub1,
     imgagetwo: Chatbot_DevelopmentSub2,
     title: " Chatbot Development",
-    heading: "At aicompany, Smarter, Faster Customer Interaction",
+    heading: "At ViQantAI, Smarter, Faster Customer Interaction",
     description:
       "Chatbots are an essential part of modern business operations, offering instant, automated responses to customer queries. We design and develop advanced chatbots that understand context, adapt to user needs, and provide personalized experiences. Whether you want to improve customer support or drive sales, our bots are designed to seamlessly integrate with your platforms and offer efficient, reliable service around the clock.",
     secondHeading:
@@ -285,7 +285,7 @@ export const serviceDetails = [
     imageone: Artificial_Intelligence_Solutionssub1,
     imgagetwo: Artificial_Intelligence_Solutionssub2,
     title: "Artificial Intelligence Solutions",
-    heading: "At aicompany, Artificial Intelligence Solutions",
+    heading: "At ViQantAI, Artificial Intelligence Solutions",
     description:
       "Artificial intelligence is at the forefront of digital transformation, enabling businesses to make smarter, data-driven decisions. We specialize in developing AI solutions that help you unlock insights, automate processes, and enhance your business operations. From machine learning and predictive analytics to natural language processing, our AI technologies can solve complex challenges and provide you with a competitive edge.",
     secondHeading:
@@ -325,9 +325,9 @@ export const serviceDetails = [
     imgagetwo: Data_Science_and_Analyticssub2,
     title: " Data Science and Analytics",
     heading:
-      "At aicompany, We Turn Data into Strategic Insights for Smarter Decisions",
+      "At ViQantAI, We Turn Data into Strategic Insights for Smarter Decisions",
     description:
-      "At aicompany, we transform raw data into strategic insights that drive smarter decisions. Our expertise in Data Science, Data Analytics, and Business Intelligence enables businesses to uncover hidden patterns, optimize operations, and gain a competitive edge. From AI-driven predictive modeling to real-time analytics and interactive dashboards, we turn complex data into actionable intelligence, empowering organizations to move beyond guesswork and make informed, future-ready decisions.",
+      "At ViQantAI, we transform raw data into strategic insights that drive smarter decisions. Our expertise in Data Science, Data Analytics, and Business Intelligence enables businesses to uncover hidden patterns, optimize operations, and gain a competitive edge. From AI-driven predictive modeling to real-time analytics and interactive dashboards, we turn complex data into actionable intelligence, empowering organizations to move beyond guesswork and make informed, future-ready decisions.",
     secondHeading:
       "How our company will Help you in the Era of Data Science and Analytics",
     secondHeading_subheading: "Service Outcomes ",
@@ -350,7 +350,7 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI Innovation",
     thirdDescription:
-      "At aicompany, we empower businesses to transform raw data into strategic insights through advanced AI-driven Data Science and Analytics. Our expertise in machine learning, predictive modeling, and real-time analytics helps organizations uncover hidden patterns, enhance decision-making, and drive innovation. By leveraging automated data processing, intelligent forecasting, and business intelligence solutions, we enable you to stay ahead in a rapidly evolving digital landscape. Make data your competitive advantage with AI-powered analytics.",
+      "At ViQantAI, we empower businesses to transform raw data into strategic insights through advanced AI-driven Data Science and Analytics. Our expertise in machine learning, predictive modeling, and real-time analytics helps organizations uncover hidden patterns, enhance decision-making, and drive innovation. By leveraging automated data processing, intelligent forecasting, and business intelligence solutions, we enable you to stay ahead in a rapidly evolving digital landscape. Make data your competitive advantage with AI-powered analytics.",
     whyMatter:
       "Why It Matters for Interstellar Strategy & Universal Leadership: In the vast expanse of the cosmos, data is the new cosmic currency, holding the power to shape decisions across planets and timelines. AI-driven analytics and business intelligence transform raw information into actionable insights, ensuring seamless coordination between global and interstellar teams. By uniting organizations under a single, data-driven vision, businesses can navigate complexity, optimize strategies, and lead with precision—whether on Earth or beyond",
     fourthHeading: "Accelerating Innovation Through Data Science Services",
@@ -364,9 +364,9 @@ export const serviceDetails = [
     imgagetwo: Robot_Process_automationSub2,
     title: "Robot Process automation",
     heading:
-      "At aicompany, Making Smarter Decisions with Robotic Process Automation",
+      "At ViQantAI, Making Smarter Decisions with Robotic Process Automation",
     description:
-      "At aicompany, we empower businesses to streamline operations and enhance efficiency with Robotic Process Automation (RPA). By leveraging AI-driven automation, intelligent workflows, and cognitive bots, we eliminate repetitive tasks, reduce errors, and accelerate processes. Our RPA solutions enable organizations to make smarter, faster, and data-driven decisions, freeing up valuable resources to focus on innovation and strategic growth. Automate smarter, work faster, and scale effortlessly with aicompany.",
+      "At ViQantAI, we empower businesses to streamline operations and enhance efficiency with Robotic Process Automation (RPA). By leveraging AI-driven automation, intelligent workflows, and cognitive bots, we eliminate repetitive tasks, reduce errors, and accelerate processes. Our RPA solutions enable organizations to make smarter, faster, and data-driven decisions, freeing up valuable resources to focus on innovation and strategic growth. Automate smarter, work faster, and scale effortlessly with ViQantAI.",
     secondHeading:
       "How our company will Help you in the Era of Robot Process Animation",
     secondHeading_subheading: "Service Outcomes ",
@@ -389,7 +389,7 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI Innovation",
     thirdDescription:
-      "At aicompany, we revolutionize business operations through AI-driven Robotic Process Automation (RPA), enabling organizations to streamline workflows, enhance efficiency, and eliminate manual bottlenecks. By leveraging intelligent automation, cognitive bots, and machine learning, we transform repetitive tasks into seamless, error-free processes. Our cutting-edge RPA solutions empower businesses to scale faster, reduce costs, and drive innovation, redefining the future of work in an AI-powered world.",
+      "At ViQantAI, we revolutionize business operations through AI-driven Robotic Process Automation (RPA), enabling organizations to streamline workflows, enhance efficiency, and eliminate manual bottlenecks. By leveraging intelligent automation, cognitive bots, and machine learning, we transform repetitive tasks into seamless, error-free processes. Our cutting-edge RPA solutions empower businesses to scale faster, reduce costs, and drive innovation, redefining the future of work in an AI-powered world.",
     whyMatter:
       "Why It Matters for Intelligent Automation: Robotic Process Automation (RPA) ensures seamless coordination between global and interstellar operations, uniting teams under a single, AI-driven workflow. By automating repetitive tasks and optimizing decision-making, businesses can achieve unmatched efficiency, scalability, and innovation across galaxies.",
     fourthHeading: "Accelerating Innovation Through Robot Process Automation",
@@ -402,7 +402,7 @@ export const serviceDetails = [
     imageone: Blockchain_DevelopmentSub1,
     imgagetwo: Blockchain_DevelopmentSub2,
     title: "Blockchain Development",
-    heading: "At aicompany, Secure and Transparent Solutions",
+    heading: "At ViQantAI, Secure and Transparent Solutions",
     description:
       "Blockchain technology is transforming how businesses handle data and transactions, offering enhanced security, transparency, and efficiency. We help businesses integrate blockchain into their operations, creating secure systems for financial transactions, smart contracts, and decentralized applications (dApps). With our blockchain solutions, you can ensure the integrity of your data, reduce fraud, and streamline operations in a way that builds trust with your customers.",
     secondHeading:
@@ -440,7 +440,7 @@ export const serviceDetails = [
     imageone: Game_DevelopmentSub1,
     imgagetwo: Game_DevelopmentSub2,
     title: " Game Development",
-    heading: "At aicompany, Engaging Players with Cutting-Edge Technology",
+    heading: "At ViQantAI, Engaging Players with Cutting-Edge Technology",
     description:
       "The gaming industry is evolving, and so are we. Our game development services are designed to create unforgettable, engaging experiences across mobile, console, and VR platforms. By combining the latest technologies with immersive storytelling and stunning graphics, we deliver games that captivate players from start to finish. Whether you're building a casual mobile game or an expansive VR universe, we’ve got the skills to bring your vision to life.",
     secondHeading:
@@ -478,7 +478,7 @@ export const serviceDetails = [
     imageone: IoT_DevelopmentSub1,
     imgagetwo: IoT_DevelopmentSub2,
     title: " IoT Development",
-    heading: "At aicompany, Connecting the Digital World",
+    heading: "At ViQantAI, Connecting the Digital World",
     description:
       "The Internet of Things (IoT) is revolutionizing industries by connecting everyday devices to the internet for smarter, more efficient operations. Our IoT development services help you design and implement connected solutions that improve performance, enhance user experiences, and reduce operational costs. From smart home devices to industrial sensors, we create scalable, secure IoT ecosystems that provide real-time data and automation to make your business smarter.",
     secondHeading:
@@ -516,7 +516,7 @@ export const serviceDetails = [
     imageone: mlimg1,
     imgagetwo: mlimg2,
     title: "Machine Learning Services",
-    heading: "At aicompany, Unleashing Data-Driven Potential",
+    heading: "At ViQantAI, Unleashing Data-Driven Potential",
     description:
       "In a world powered by data, our machine learning services unlock actionable insights to propel your business forward. We design and deploy custom ML models tailored to your unique needs, from predictive analytics to process optimization. Our solutions ensure scalability, accuracy, and seamless integration, empowering you to make informed decisions and stay ahead in a competitive landscape. Whether it's forecasting trends or automating complex tasks, we transform raw data into strategic assets.",
     secondHeading:
@@ -541,12 +541,12 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI-Powered Insights",
     thirdDescription:
-      "At aicompany, we lead the charge in integrating machine learning into business strategies, creating intelligent systems that learn and adapt. Our ML solutions deliver personalized experiences, optimize operations, and uncover hidden opportunities within your data. By leveraging cutting-edge AI techniques, we ensure your business remains agile and innovative, ready to tackle the challenges of tomorrow. Partner with us to redefine how data drives success in your industry.",
+      "At ViQantAI, we lead the charge in integrating machine learning into business strategies, creating intelligent systems that learn and adapt. Our ML solutions deliver personalized experiences, optimize operations, and uncover hidden opportunities within your data. By leveraging cutting-edge AI techniques, we ensure your business remains agile and innovative, ready to tackle the challenges of tomorrow. Partner with us to redefine how data drives success in your industry.",
     whyMatter:
       "Why It Matters Globally (and Beyond): Data is the currency of the future—our ML services empower businesses to harness it, resonating with global markets and industries across all timelines.",
     fourthHeading: "Accelerating Innovation Through Machine Learning",
     fourthDescripiton:
-      "At aicompany, we accelerate innovation by building machine learning solutions that integrate advanced AI and analytics. Our approach delivers intelligent, adaptable systems that enhance efficiency, predict outcomes, and provide a competitive edge in a data-driven world.",
+      "At ViQantAI, we accelerate innovation by building machine learning solutions that integrate advanced AI and analytics. Our approach delivers intelligent, adaptable systems that enhance efficiency, predict outcomes, and provide a competitive edge in a data-driven world.",
   },
   {
     id: 14,
@@ -555,7 +555,7 @@ export const serviceDetails = [
     imageone: cloudcomputingimg1,
     imgagetwo: cloudcomputingimg2,
     title: "Cloud Computing Services",
-    heading: "At aicompany, Scaling Your Future Seamlessly",
+    heading: "At ViQantAI, Scaling Your Future Seamlessly",
     description:
       "Our cloud computing services empower businesses to scale effortlessly while maintaining security and efficiency. From cloud storage to computing power and disaster recovery, we provide flexible, cost-effective solutions tailored to your needs. Our expertise ensures your infrastructure is robust, accessible, and optimized for performance, allowing you to focus on growth without worrying about technical complexities. Embrace the cloud with confidence, knowing your operations are future-ready.",
     secondHeading:
@@ -580,12 +580,12 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with Cloud Innovation",
     thirdDescription:
-      "At aicompany, we harness the power of cloud computing to drive innovation, enabling businesses to operate with unparalleled agility. By integrating AI-driven analytics and automation into our cloud solutions, we create intelligent infrastructures that adapt to your evolving needs. Our commitment to cutting-edge technology ensures your operations are not only efficient but also poised for growth in a dynamic global market. Partner with us to redefine scalability and resilience.",
+      "At ViQantAI, we harness the power of cloud computing to drive innovation, enabling businesses to operate with unparalleled agility. By integrating AI-driven analytics and automation into our cloud solutions, we create intelligent infrastructures that adapt to your evolving needs. Our commitment to cutting-edge technology ensures your operations are not only efficient but also poised for growth in a dynamic global market. Partner with us to redefine scalability and resilience.",
     whyMatter:
       "Why It Matters Globally (and Beyond): Cloud computing is the backbone of modern business—our solutions connect enterprises across geographies, ensuring seamless operations in any timeline.",
     fourthHeading: "Accelerating Innovation Through Cloud Services",
     fourthDescripiton:
-      "At aicompany, we accelerate innovation by delivering cloud computing services that integrate AI and automation. Our solutions provide scalable, secure, and intelligent infrastructures that empower businesses to thrive in a competitive landscape.",
+      "At ViQantAI, we accelerate innovation by delivering cloud computing services that integrate AI and automation. Our solutions provide scalable, secure, and intelligent infrastructures that empower businesses to thrive in a competitive landscape.",
   },
   {
     id: 15,
@@ -594,7 +594,7 @@ export const serviceDetails = [
     imageone: nlpimg1,
     imgagetwo: nlpimg2,
     title: "Natural Language Processing",
-    heading: "At aicompany, Enhancing Human-Technology Interaction",
+    heading: "At ViQantAI, Enhancing Human-Technology Interaction",
     description:
       "Our natural language processing (NLP) solutions bridge the gap between human language and technology, creating intuitive and engaging user experiences. From intelligent chatbots to sentiment analysis, we develop applications that understand and process language with precision. Our NLP services enhance customer engagement, streamline communication, and unlock insights from unstructured data, ensuring your business connects with users in meaningful ways.",
     secondHeading: "How our company will Help you in the Era of NLP",
@@ -618,12 +618,12 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with AI-Driven Communication",
     thirdDescription:
-      "At aicompany, we are pioneers in leveraging NLP to transform how businesses interact with their audiences. Our AI-powered NLP solutions deliver personalized, context-aware communication that adapts to user needs. By integrating advanced machine learning and linguistics, we create applications that not only understand language but also anticipate user intent, driving engagement and satisfaction. Partner with us to redefine the future of human-technology interaction.",
+      "At ViQantAI, we are pioneers in leveraging NLP to transform how businesses interact with their audiences. Our AI-powered NLP solutions deliver personalized, context-aware communication that adapts to user needs. By integrating advanced machine learning and linguistics, we create applications that not only understand language but also anticipate user intent, driving engagement and satisfaction. Partner with us to redefine the future of human-technology interaction.",
     whyMatter:
       "Why It Matters Globally (and Beyond): Language is universal—our NLP solutions empower businesses to connect with diverse audiences, fostering engagement across all cultures and timelines.",
     fourthHeading: "Accelerating Innovation Through NLP Services",
     fourthDescripiton:
-      "At aicompany, we accelerate innovation by developing NLP solutions that integrate AI and machine learning. Our applications enhance communication, uncover insights, and deliver personalized experiences that set your business apart in a competitive landscape.",
+      "At ViQantAI, we accelerate innovation by developing NLP solutions that integrate AI and machine learning. Our applications enhance communication, uncover insights, and deliver personalized experiences that set your business apart in a competitive landscape.",
   },
   {
     id: 16,
@@ -632,7 +632,7 @@ export const serviceDetails = [
     imageone: cloudmigrationimg1,
     imgagetwo: cloudmigrationimg2,
     title: "Cloud Migration Services",
-    heading: "At aicompany, Transitioning with Confidence",
+    heading: "At ViQantAI, Transitioning with Confidence",
     description:
       "Our cloud migration services ensure a seamless transition to the cloud, minimizing disruption and maximizing efficiency. We expertly move your data, applications, and workloads to secure, scalable cloud environments, optimizing performance for your business needs. With a focus on reliability and cost-effectiveness, we empower you to embrace cloud technology without the complexity, ensuring your operations are future-proof and agile.",
     secondHeading:
@@ -657,11 +657,11 @@ export const serviceDetails = [
     ],
     thirdHeading: "Redefine the Future with Cloud Agility",
     thirdDescription:
-      "At aicompany, we redefine business agility through our cloud migration services, leveraging AI to streamline transitions and enhance performance. Our intelligent migration strategies ensure your applications and data are optimized for the cloud, delivering scalability and resilience. By partnering with us, you gain access to cutting-edge tools and expertise that position your business for success in a cloud-driven world.",
+      "At ViQantAI, we redefine business agility through our cloud migration services, leveraging AI to streamline transitions and enhance performance. Our intelligent migration strategies ensure your applications and data are optimized for the cloud, delivering scalability and resilience. By partnering with us, you gain access to cutting-edge tools and expertise that position your business for success in a cloud-driven world.",
     whyMatter:
       "Why It Matters Globally (and Beyond): Cloud migration is the gateway to scalability—our services ensure businesses thrive in global markets, connecting operations across all timelines.",
     fourthHeading: "Accelerating Innovation Through Cloud Migration",
     fourthDescripiton:
-      "At aicompany, we accelerate innovation by delivering cloud migration services that integrate AI and automation. Our solutions ensure seamless transitions, optimized performance, and scalable infrastructures that drive business success in a competitive landscape.",
+      "At ViQantAI, we accelerate innovation by delivering cloud migration services that integrate AI and automation. Our solutions ensure seamless transitions, optimized performance, and scalable infrastructures that drive business success in a competitive landscape.",
   },
 ];
