@@ -19,9 +19,9 @@ const Testimonials = () => {
           className="main-title text-center leading-tight text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-500"
           data-aos="fade-up"
         >
-          Professionals use to <span className="text-white">10x</span> their{" "}
-          <br />
-          <span className="text-white">Productivity</span>
+          Professionals use to{" "}
+          <span className="dark:text-white text-primary">10x</span> their <br />
+          <span className="dark:text-white text-primary">Productivity</span>
         </h1>
 
         <div className="wrapper w-full max-w-6xl">

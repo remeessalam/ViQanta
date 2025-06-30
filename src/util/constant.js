@@ -76,7 +76,7 @@ import { FaXTwitter } from "react-icons/fa6";
 export const companyDetails = {
   name: "ViQantAI",
   email: "ViQantAI@gmail.com",
-  phone: "+91-0000000000",
+  phone: "+91-8639916341",
   address: "company address",
   socialLinks: [
     {
